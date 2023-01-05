@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vimleshkumarkanaujiya
-- 👀 I’m interested in SDE/SWE role at @facebook | @apple | @google | @nokia
+- 👀 I’m interested in SDE/SWE role at Facebook | Apple |Google | Nokia
 - 🌱 I’m currently learning React, PHP, XML, GraphQL
-- 📫 How to reach me -> +91-6386205855
+- 📫 How to reach me -> kanaujiyavimlesh6@gmail.com
 
 <!---
 vimleshkumarkanaujiya/vimleshkumarkanaujiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
