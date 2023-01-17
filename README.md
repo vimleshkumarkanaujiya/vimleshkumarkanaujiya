@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vimleshkumarkanaujiya
 - 👀 I’m interested in SDE/SWE role at Facebook | Apple |Google | Nokia
-- 🌱 I’m currently learning React, PHP, XML, GraphQL
+- 🌱 C++, JavaScript, React, XML, Python, GraphQL, AWS, Cryptography
 - 📫 How to reach me -> kanaujiyavimlesh6@gmail.com
 
 <!---
