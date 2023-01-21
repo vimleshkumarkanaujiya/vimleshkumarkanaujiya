@@ -24,7 +24,7 @@ Hi, I'm [Vimlesh Kumar Kanaujiya](https://vimleshkumarkanaujiya.github.io/vimles
 I am currently exploring <b>Semantics</b>, <b>Cryptography</b>, and <b>Automata</b>.
 
 
-  <img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Accettore.png" width="401" height="279" />
+  <img align="right" alt="Math-SVG" src="math.svg" width="500" height="300" />
   
 - Reach me at ([email](mailto:kanaujiyavimlesh6@gmail.com))
 
