@@ -21,7 +21,7 @@
 
 Hi, I'm [Vimlesh Kumar Kanaujiya](https://vimleshkumarkanaujiya.github.io/vimleshkumarkanaujiya/), a self centered computer science nerd.
 
-I am currently exploring <b>Semantics</b>, <b>Cryptography</b>, and <b>Automata</b>.
+I am a newbie in exploring <b>Semantics</b>, <b>Cryptography</b>, and <b>Automata</b>.
 
 
   <img align="right" alt="Math-SVG" src="math.svg" width="500" height="300" />
