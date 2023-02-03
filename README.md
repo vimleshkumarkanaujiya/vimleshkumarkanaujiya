@@ -1,4 +1,4 @@
-### Namaste, שלום, Привет.
+### Sādhu, שלום, Привет, 你好.
 <a href="https://www.facebook.com/boffin.kanaujiya/">
   <img align="left" alt="Vimlesh's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" />
 </a>
