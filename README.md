@@ -23,8 +23,6 @@ Hi, I'm [Vimlesh Kumar Kanaujiya](https://vimleshkumarkanaujiya.github.io/vimles
 
 I am a newbie in exploring <b>Semantics</b>, <b>Cryptography</b>, and <b>Automata</b>.
 
-
-  <img align="right" alt="Math-SVG" src="math.svg" width="500" height="300" />
   
 - Reach me at ([email](mailto:kanaujiyavimlesh6@gmail.com))
 
