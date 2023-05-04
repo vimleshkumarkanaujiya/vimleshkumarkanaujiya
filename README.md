@@ -19,7 +19,7 @@
 
 Hi, I'm [Vimlesh Kumar Kanaujiya](https://vimleshkumarkanaujiya.github.io/vimleshkumarkanaujiya/), a self centered computer science nerd.
 
-I am a newbie in exploring <b>Cryptography</b>, <b>Automata</b> and the things that changes the world we live in.
+I am a newbie in exploring <b>Cryptography</b> and <b>Automata</b>.
 
   
 - Reach me at email (Binary?ASCII) <b>[01101011 01100001 01101110 01100001 01110101 01101010 01101001 01111001 01100001 01110110 01101001 01101101 01101100 01100101 01110011 01101000 00110110 01000000 01100111 01101101 01100001 01101001 01101100 00101110 01100011 01101111 01101101]</b>
