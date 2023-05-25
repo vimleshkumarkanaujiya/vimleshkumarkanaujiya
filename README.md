@@ -9,7 +9,7 @@
   <img align="left" alt="Vimlesh's Discord" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Discord-logo-blurple.png" />
 </a>
 <a href="https://twitter.com/kanaujiya369">
-  <img align="left" alt="Vimlesh Kumar Kanaujiya | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />
+  <img align="left" alt="Vimlesh Kumar Kanaujiya | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kanaujiyavimleshkumar/">
   <img align="left" alt="Vimlesh's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
