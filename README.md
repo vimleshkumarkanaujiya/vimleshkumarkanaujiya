@@ -16,16 +16,10 @@
 </a>
 
 <br />
+<hr>
 
-Hi, I'm [Vimlesh Kumar Kanaujiya](https://vimleshkumarkanaujiya.github.io/vimleshkumarkanaujiya/), a self centered computer science nerd.
+**Languages and Tools:**
 
-I am a newbie in exploring <b>Cryptography</b> and <b>Automata</b>.
-
-  
-- Reach me at email (Binary?ASCII) <b>{01101011 01100001 01101110 01100001 01110101 01101010 01101001 01111001 01100001 01110110 01101001 01101101 01101100 01100101 01110011 01101000 00110110 01000000 01100111 01101101 01100001 01101001 01101100 00101110 01100011 01101111 01101101}</b>
-
-
-**languages and tools:**  
 
 <span><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></span>
 <span><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></span>
