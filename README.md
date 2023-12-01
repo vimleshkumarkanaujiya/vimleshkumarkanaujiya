@@ -28,3 +28,5 @@
 <span><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></span>
 <span><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg"></span>
 <span><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></span>
+
+![Kanaujiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimleshkumarkanaujiya&show_icons=true&theme=transparent)
