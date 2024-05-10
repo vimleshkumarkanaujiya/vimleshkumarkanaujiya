@@ -1,8 +1,8 @@
 ### Sādhu, שלום, Привет, 你好.
-<a href="https://www.facebook.com/boffin.kanaujiya/">
+<a href="https://www.facebook.com/quantum.kanaujiya/">
   <img align="left" alt="Vimlesh's Facebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" />
 </a>
-<a href="https://www.instagram.com/boffin_kanaujiya/">
+<a href="https://www.instagram.com/quantum_kanaujiya/">
   <img align="left" alt="Vimlesh's Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
 </a>
 <a href="https://discord.gg/jpu9cR4X">
